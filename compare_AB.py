@@ -1,5 +1,5 @@
-varA = int(2)
-varB = int(5)
+varA = int(input("enter num  "))
+varB = int(input("enter another num  "))
 if varA is str and varB is str:
 	print ("String involved")
 if varA > varB:
