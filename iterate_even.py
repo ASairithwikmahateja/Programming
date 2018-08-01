@@ -1,0 +1,5 @@
+for i in range(2,14,2):
+	print (i)
+	if(i==12):
+		print("Goodbye!")
+	
