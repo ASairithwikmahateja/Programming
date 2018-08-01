@@ -1,5 +1,5 @@
 i=2
 while i<12:
-	print(i)
+	print("print",i)
 	i=i+2
-print("Goodbye!")
+print("print Goodbye!")
